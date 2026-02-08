@@ -77,7 +77,7 @@ A fitness tracking app developed with **Flutter**, **Unity**, and **Vuforia**, d
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando%20Gomez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-gomez-sandoval-8b7056349/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-1ABC9C?style=for-the-badge&logo=githubpages&logoColor=white)](https://fernandogomez.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-1ABC9C?style=for-the-badge&logo=githubpages&logoColor=white)](https://d2vo6n4gbp6aq2.cloudfront.net/)
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferbax03@outlook.com)
 
